@@ -12,7 +12,6 @@
 
 ### Contact with me 📝
 
-[<img align="left" alt="bilgehangecici.site" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />][website]
 [<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
 
 
@@ -22,7 +21,6 @@
 
 ### My Skills 🛠 
 
-![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -36,15 +34,16 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
+
 
 <br/>
 
 ---
 
 
-[website]: http://bilgehangecici.site/
-[instagram]: https://www.instagram.com/bilgehangecici
-[linkedin]: https://www.linkedin.com/in/bilgehan-geçici-8b368614a/
+
+[linkedin]: [https://www.linkedin.com/in/bilgehan-geçici-8b368614a/](http://bilgehangecici.site/](https://www.linkedin.com/in/hubert-grabke-78aa5324b/)
 
 
 
