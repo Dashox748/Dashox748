@@ -48,8 +48,8 @@
 ![SASS](https://img.icons8.com/color/48/000000/sass-avatar.png)
 ![BOOTSTRAP](https://img.icons8.com/color/48/000000/bootstrap.png)
 ![FIGMA](https://img.icons8.com/color/48/000000/figma--v1.png")
-![VISUAL](https://raw.githubusercontent.com/emblaszkiewicz/emblaszkiewicz/main/logos/vsc.png)
-![GIT](https://raw.githubusercontent.com/emblaszkiewicz/emblaszkiewicz/main/logos/git.png)
+![VISUAL](https://img.icons8.com/color/48/null/visual-studio-code-2019.png)
+![GIT](https://img.icons8.com/color/48/null/git.png)
 <br/>
 
 ---
