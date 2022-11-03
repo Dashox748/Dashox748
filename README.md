@@ -16,8 +16,6 @@
 * hubert.grabke@gmail.com
 * https://www.linkedin.com/in/hubert-grabke-78aa5324b/
 
-<br />
-
 ---
 
 ### My Skills 🛠 
