@@ -9,10 +9,10 @@
 
 ---
 
-
+https://icons8.com/icon/MR3dZdlA53te/linkedin
 ### Contact with me 📝
 
-[<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
+[<img align="left" alt="Hubert Grabke | LinkedIn" height="30px" src="https://icons8.com/icon/MR3dZdlA53te/linkedin"/>][linkedin]
 
 
 <br />
@@ -43,7 +43,7 @@
 
 
 
-[linkedin]: [https://www.linkedin.com/in/bilgehan-geçici-8b368614a/](http://bilgehangecici.site/](https://www.linkedin.com/in/hubert-grabke-78aa5324b/)
+[linkedin]:https://www.linkedin.com/in/hubert-grabke-78aa5324b/
 
 
 
