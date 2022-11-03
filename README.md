@@ -1,6 +1,6 @@
 # Hi there, I'm 
 
-## I'm a Computer Science and Engineering Student  
+## Junior Frontend Developer
 
 - 👨‍💻 I’m currently working on web development technologies like React etc.
 - 📚 I’m currently learning Typescript
