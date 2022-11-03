@@ -9,10 +9,9 @@
 
 ---
 
-https://icons8.com/icon/MR3dZdlA53te/linkedin
 ### Contact with me 📝
 
-[<img align="left" alt="Hubert Grabke | LinkedIn" height="30px" src="https://icons8.com/icon/MR3dZdlA53te/linkedin"/>][linkedin]
+[<img align="left" alt="Hubert Grabke | LinkedIn" height="30px" src="https://img.icons8.com/fluency/48/null/linkedin.png"/>][linkedin]
 
 
 <br />
