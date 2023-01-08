@@ -2,8 +2,9 @@
 
 ## Junior Frontend Developer
 
-- 👨‍💻 I’m currently working on web development technologies like React etc.
-- 📚 I’m currently learning Typescript
+- 👨‍💻 I’m currently working on [Cryptocurrencies Website](https://crypto-coin-rf6n.vercel.app/)
+
+- 📚 I’m currently learning React/Typescript/NextJS
 
 
 
@@ -14,6 +15,7 @@
 <!-- [<img align="left" alt="Hubert Grabke | LinkedIn" height="30px" src="https://img.icons8.com/fluency/48/null/linkedin.png"/>][linkedin]
  -->
 * hubert.grabke@gmail.com
+* 
 * https://www.linkedin.com/in/hubert-grabke-78aa5324b/
 
 ---
