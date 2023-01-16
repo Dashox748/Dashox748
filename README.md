@@ -47,7 +47,7 @@
 <img alt="Tailwindcss" width=48 src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1200px-Tailwind_CSS_Logo.svg.png" />
 ![SASS](https://img.icons8.com/color/48/000000/sass-avatar.png)
 ![BOOTSTRAP](https://img.icons8.com/color/48/000000/bootstrap.png)
-![FIGMA](https://img.icons8.com/color/48/000000/figma--v1.png")
+![FIGMA](https://img.icons8.com/color/48/000000/figma--v1.png)
 ![VISUAL](https://img.icons8.com/color/48/null/visual-studio-code-2019.png)
 ![GIT](https://img.icons8.com/color/48/null/git.png)
 <br/>
