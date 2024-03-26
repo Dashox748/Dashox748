@@ -1,10 +1,8 @@
 # Hi there, I'm Hubert
 
-## Junior Frontend Developer
+## Frontend Developer
 
-- 👨‍💻 I’m currently working on [Cryptocurrencies Website](https://crypto-coin-rf6n.vercel.app/)
-
-- 📚 I’m currently learning React/Typescript/NextJS
+- 👨‍💻 I’m currently working on [Rate-Eats](https://github.com/Rate-Eats/frontend)
 
 
 
